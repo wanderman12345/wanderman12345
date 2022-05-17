@@ -1,3 +1,5 @@
-## Hey Everybody 🙌🏽 
+## Hey there, I'm Mathew Raju 🙌🏽 
 
-My name is Mathew Raju, and I'm currently a student at the University of California Santa Cruz. 
+
+🌱 I'm currently working on my own speical to-do list !
+🌵  Currently working with C++ 
