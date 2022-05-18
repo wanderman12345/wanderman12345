@@ -5,4 +5,4 @@
 - 😃 Currently working as a web developer at the Tech4good lab
 - 🍃 Contact me via email: mathew2002raj@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wanderman12345=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderman12345)](https://github.com/anuraghazra/github-readme-stats)
