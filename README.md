@@ -1,7 +1,7 @@
 ## Hey there, I'm Mathew Raju 🙌🏽 
 
 
-- 🌱 I'm currently working on creating my own website !
+- 🌱 I've just completed making my own website !
 - 😃 Worked as a web developer at the Tech4good lab
 - 🍃 Contact me via email: mathew2002raj@gmail.com
 - 🔗 Connect with me on linkedin: https://www.linkedin.com/in/mathew-raju-6b4517171/
